@@ -517,7 +517,7 @@ TextureImporter:
         width: 89
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -539,7 +539,7 @@ TextureImporter:
         width: 96
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -553,7 +553,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_0
+      name: playButton
       rect:
         serializedVersion: 2
         x: 354
@@ -561,7 +561,7 @@ TextureImporter:
         width: 52
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -598,7 +598,7 @@ TextureImporter:
       gPipeUp: -402920589
       gameOver: -1047246918
       ground: 7762846
-      sprites_0: -1427518385
+      playButton: -1427518385
       title: 2140728736
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
